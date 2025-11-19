@@ -77,8 +77,8 @@ python src/get_vendor_summary.py
 Data Analyst | Data Science Professional  
 
 📧 Email: kayhiusy@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dipanshu-kumar-61a21322a/))  
-🐙 GitHub: [@yourusername](https://github.com/DipanshuK2003) 
+🔗 LinkedIn: [linkedin.com/in/Dipanshu Kumar](https://www.linkedin.com/in/dipanshu-kumar-61a21322a/)  
+🐙 GitHub: [@DipanshuK2003](https://github.com/DipanshuK2003) 
 
 ---
 *For detailed business insights, refer to the complete project report.*
